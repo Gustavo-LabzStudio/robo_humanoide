@@ -14,14 +14,6 @@ Antes de iniciar, certifique-se de que os seguintes requisitos estão atendidos:
 
 ## Configuração do Ambiente
 
-### Clonando o Projeto
-
-Clone o repositório do projeto para sua máquina local usando o comando:
-
-```bash
-git clone https://github.com/Gustavo-LabzStudio/intelirobot/tree/main
-```
-
 ### Configurando a Virtual Environment (venv)
 
 A virtual environment (venv) permite gerenciar separadamente as dependências do projeto.
